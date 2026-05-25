@@ -6,9 +6,7 @@ The site presents Xiaomin's professional profile, featured recommendation letter
 
 ## Live Site
 
-```text
-https://xiaomin-reference-recommendations.vercel.app
-```
+[https://xiaomin-reference-recommendations.vercel.app](https://xiaomin-reference-recommendations.vercel.app)
 
 ## Purpose
 
